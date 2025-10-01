@@ -1,1 +1,4 @@
 local.env
+ibm_torino_qsvc.model
+simulator_qsvc.model
+poc/
